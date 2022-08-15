@@ -1,3 +1,5 @@
+// https://git.heroku.com/jtech-news.git
+
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection');
